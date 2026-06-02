@@ -6,6 +6,17 @@
       "env": {
         "TAVILY_API_KEY": "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"
       }
+    },
+    "codegraph": {
+      "command": "cmd.exe",
+      "args": [
+        "/c",
+        "C:\\Users\\Administrator\\AppData\\Local\\pnpm\\bin\\codegraph.CMD",
+        "serve",
+        "--mcp",
+        "--path",
+        "C:\\Users\\myuser\\Projects\\filter-manage"
+      ]
     }
   }
 }
